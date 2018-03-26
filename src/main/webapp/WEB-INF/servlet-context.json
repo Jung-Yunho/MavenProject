@@ -1,0 +1,7 @@
+{
+	"mappers":[
+		{"url":"/index.htm","class":"com.newlecture.controller.IndexController"},
+		{"url":"/notice/list.htm","class":"com.newlecture.notice.controller.ListController"}
+	]
+	
+}
